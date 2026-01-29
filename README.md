@@ -49,9 +49,4 @@ This course covers the fundamental concepts of differential and integral calculu
 ## 🛠️ Resources & Tools
 
 *   **WolframAlpha** - For checking calculus computations.
-*   **Desmos 3D** - For visualizing multivariable functions.
-*   **LaTeX** - Used for writing mathematical proofs and homework.
-
----
-
-> *"Mathematics is the language in which God has written the universe."* — Galileo Galilei
+*   **Python + Jupyter Notebook** - For visualizations.
